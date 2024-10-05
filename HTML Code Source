@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>NIKE SHOES</title>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="shortcut icon" href="https://imgs.search.brave.com/Z84VtN6yVidCJZTTL0IxDCBLUe7WDfwahUqH01JBK_4/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLmV0/c3lzdGF0aWMuY29t/LzQ2MDk3OTQ0L3Iv/aWwvZWYyM2VjLzUy/NjY0OTQxNzIvaWxf/NjAweDYwMC41MjY2/NDk0MTcyX2hwaXou/anBn" type="image/x-icon">
+    <link
+      href="https://cdn.jsdelivr.net/npm/remixicon@3.5.0/fonts/remixicon.css"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div id="main">
+      <img
+        id="img1"
+        src="https://images.pexels.com/photos/4067024/pexels-photo-4067024.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+        alt=""
+      />
+      <img
+        id="img2"
+        src="https://images.pexels.com/photos/3490360/pexels-photo-3490360.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+        alt=""
+      />
+      <div id="nav">
+        <div id="nav-prt1">
+          <img
+            src="https://www.nicepng.com/png/full/65-654524_edward-sturgeon-the-puma-logo-is-also-a.png"
+            alt=""
+          />
+          <h4>Shop</h4>
+          <h4>Collection</h4>
+          <a href="#">History</a>
+        </div>
+        <img id="img" src="/Untitled(2).png" alt="" />
+        <div id="nav-prt2">
+          <i class="ri-search-line"></i>
+          <i class="ri-user-3-line"></i>
+          <i class="ri-shopping-cart-2-line"></i>
+        </div>
+      </div>
+      <div id="nav-prt3">
+        <h1>Sneaker</h1>
+        <h1>for all time</h1>
+        <p>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloribus,
+          <br />repudiandae maiores quo soluta quae consectetur dolorum eaque
+          <br />reiciendis,distinctio qui dolores alias sapiente laboriosam
+          consequuntur<br />voluptates tenetur aliquid reprehenderit dolor sit
+          amet consectetur!
+        </p>
+        <button>shop now</button>
+      </div>
+      <div id="nav-prt4">
+        <h5>01-06</h5>
+        <h5>Maxim:Puma Shoe's<br />Classic: Shoe's</h5>
+        <h5>Luci Luncious waters<br />makses white other<br />combination</h5>
+        <button><</button>
+      </div>
+      <button id="sem">></button>
+      <div id="nav-prt5">
+        <h2>the puma suede</h2>
+        <h2>isn't just timeless-</h2>
+        <h2>it's universal</h2>
+      </div>
+      <img
+        id="img3"
+        src="https://images.pexels.com/photos/345415/pexels-photo-345415.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+        alt=""
+      />
+    </div>
+    <div id="fack">
+      <img id="img7" src="/Untitled(4).png" alt="" />
+      <img
+        src="https://images.pexels.com/photos/11575114/pexels-photo-11575114.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+        alt=""
+      />
+      <img
+        id="take"
+        src="https://images.pexels.com/photos/14048746/pexels-photo-14048746.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+        alt=""
+      />
+      <div id="fack-prt1">
+        <h3>the timeless classic</h3>
+        <h5>
+          Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+          Molestias,<br />
+          provident. Maiores, in quos natus, vitae nemo saepe, temporibus
+          <br />asperiores quibusdam eligendi mollitia accusamus inventore
+          possimus <br />nihil eveniet quam ex! Ratione non modi inventore
+          blanditiis aperiam dignissimos, <br />at ut quibusdam deserunt, in,
+          neque ea veniam repellat minima quos minus <br />obcaecati Lorem ipsum
+          dolor sit amet consectetur adipisicing elit. <br />Facilis earum
+          nesciunt quis perspiciatis nihil natus deserunt <br />quam eum
+          provident voluptates sapiente odio, nam sint harum <br />recusandae
+          reiciendis. Perspiciatis, vel corporis tenetur sunt culpa quaerat.
+          <br />Illum quam itaque alias quas exercitationem reiciendis ea. Quasi
+          assumenda totam <br />nihil ratione nobis consequuntur. Et?
+        </h5>
+        <br /><br />
+        <h3>universal design</h3>
+        <h5>
+          Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolores enim
+          <br />delectus, nesciunt quam officiis, ea omnis eveniet reiciendis
+          <br />temporibus commodi tempora fugit quibusdam, id minus odit. Vitae
+          nemo <br />perspiciatis explicabo impedit, omnis et voluptatem
+          perferendis! Nesciunt, adipisci <br />iusto quas eum repellendus rerum
+          similique amet nisi sint cupiditate. <br />Iure eaque iste incidunt,
+          qui obcaecati praesentium ea, omnis laborum <br />quia quasi
+          voluptates!
+        </h5>
+      </div>
+    </div>
+    <div id="zack">
+      <img
+        id="img4"
+        src="https://images.pexels.com/photos/10538337/pexels-photo-10538337.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+        alt=""
+      />
+      <div id="zck-prt3">
+        <h1>"you wasn't real b-boy</h1>
+        <h1>or b-girl if you didn't</h1>
+        <h1>have a pair of suedes"</h1>
+        <h2>a bond with the greats</h2>
+        <h5>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit.Ipsa rerum
+          obcaecati provident quod <br />accusamus fugit ipsam tempore id autem
+          libero reprehenderit explicabo voluptates <br />maiores sequi
+          assumenda, ut aspernatur minu nesciunt?
+        </h5>
+      </div>
+      <img
+        id="img6"
+        src="https://images.pexels.com/photos/11157452/pexels-photo-11157452.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2"
+        alt=""
+      />
+      <img
+        id="img5"
+        src="https://images.pexels.com/photos/11201761/pexels-photo-11201761.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load"
+        alt=""
+      />
+      <div id="zack-prt1">
+        <h2>an artist's canvas<br />for infinite potential</h2>
+        <h5>
+          Lorem ipsum dolor sit amet consectetur adipisicing elit. Beatae
+          commodi <br />nemo mollitia, deserunt exercitationem corporis earum?
+          Quod et ducimus <br />reprehenderit omnis quae quibusdam dolorum
+          nesciunt odio quam nemo, <br />ex maiores dolore temporibus soluta
+          numquam excepturi tempore maxime distinctio. <br />Quas, voluptas
+          rerum repellat dolorum nam quisquam quae libero fugit officiis
+          <br />fuga?
+        </h5>
+      </div>
+    </div>
+  </body>
+</html>
